@@ -1,0 +1,7 @@
+{
+  "name": "Time Investment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
